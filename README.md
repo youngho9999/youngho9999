@@ -1,32 +1,35 @@
-<div align="center">
+### 👋 안녕하세요! 백엔드 개발자 전영호입니다.
 
-### 👋Hi I'm Young Ho.
+저는 Java와 Spring Boot를 중심으로 백엔드 시스템을 개발하며, ERP 재무모듈 개발 경험이 있습니다.  
+현재는 성능 최적화, 대용량 데이터 처리에 관심을 갖고 공부하고 있습니다.
 
-#### I'm a BackEnd Engineer.
+---
 
-<br>
+### 🛠 Tech Stack
+![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat&logo=spring-boot&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
 
-## 🛠 Skills
-<p align="center">
-  <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/> </a>&nbsp
-  <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white"/></a>&nbsp
-  <img src="https://img.shields.io/badge/Mysql-E6B91E?style=flat-square&logo=MySql&logoColor=white"/></a>&nbsp
-  <img src="https://img.shields.io/badge/mariaDB-003545?style=flat-square&logo=mariaDB&logoColor=white">&nbsp
-  <br>
-  <img src="https://img.shields.io/badge/vue.js-4FC08D?style=flat-square&logo=vue.js&logoColor=white"> 
-  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Node.js&logoColor=white"/></a>&nbsp
-  <img src="https://img.shields.io/badge/Javascript-ffb13b?style=flat-square&logo=javascript&logoColor=white"/></a>&nbsp
-  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=Bootstrap&logoColor=white"/></a>&nbsp
-  <br>
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=AmazonAWS&logoColor=white"/></a>&nbsp
-  <img src="https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=Jira&logoColor=white"/></a>&nbsp
-  <img src="https://img.shields.io/badge/Slack-4A154B?style=flat-square&logo=Slack&logoColor=white"/></a>&nbsp
-  <img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white"/></a>&nbsp
-</p>
+---
+<!--
+### 📌 주요 프로젝트
+#### 🔹 [LoL Ban/Pick 시뮬레이터](https://github.com/youngho9999/lol-draft-simulator)  
+자바스크립트 기반 웹앱으로 사용자 인터랙션 중심의 챔피언 픽/밴 전략을 시뮬레이션합니다. 사용자 경험을 고려해 UI/UX 최적화를 적용했습니다.
+
+---
+-->
+
+### 📫Career
+(23.12 - 24.11) 티맥스비아이 - ERP 재무모듈 백엔드 개발
+
+---
 
 
-### About Me
-[![Velog Badge](https://img.shields.io/badge/Velog-20C997?style=flat-square&logo=Velog&logoColor=white&link=https://velog.io/@aplbly)](https://velog.io/@aplbly)
+### 📝 Blog  
+기술적인 고민과 학습 내용을 정리하며 기록하고 있습니다.  
+📍 [https://velog.io/@aplbly/posts]
 
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=aplbly)](https://solved.ac/aplbly/)
-</div>
+- [Spring JPA의 @Transactional(readOnly = true) 동작](https://velog.io/@aplbly/Spring-JPA%EC%9D%98-TransactionalreadOnly-true-%EB%8F%99%EC%9E%91)
+- [Hibernate의 객체 매핑 성능 비밀: 내부 동작 원리 파헤치기](https://velog.io/@aplbly/Hibernate%EC%9D%98-%EA%B0%9D%EC%B2%B4-%EB%A7%A4%ED%95%91-%EC%84%B1%EB%8A%A5-%EB%B9%84%EB%B0%80-%EB%82%B4%EB%B6%80-%EB%8F%99%EC%9E%91-%EC%9B%90%EB%A6%AC-%ED%8C%8C%ED%97%A4%EC%B9%98%EA%B8%B0)
+
