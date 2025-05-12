@@ -22,7 +22,7 @@
 ### 📝 Blog  
 기술적인 고민과 학습 내용을 정리하며 기록하고 있습니다.  
 - [[자바] synchronized는 어떻게 Lock을 거는가?](https://aplbly.tistory.com/5)
-- [Hibernate의 객체 매핑 성능 비밀: 내부 동작 원리 파헤치기](https://velog.io/@aplbly/Hibernate%EC%9D%98-%EA%B0%9D%EC%B2%B4-%EB%A7%A4%ED%95%91-%EC%84%B1%EB%8A%A5-%EB%B9%84%EB%B0%80-%EB%82%B4%EB%B6%80-%EB%8F%99%EC%9E%91-%EC%9B%90%EB%A6%AC-%ED%8C%8C%ED%97%A4%EC%B9%98%EA%B8%B0)
+- [Hibernate의 객체 매핑 성능 비밀: 내부 동작 원리 파헤치기](https://aplbly.tistory.com/11)
 
 
 ### 📫Career
